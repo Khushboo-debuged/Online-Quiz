@@ -20,3 +20,19 @@ A console-based Quiz Application developed in C++ that allows users to answer mu
 - File Handling (optional)
 - Chrono Library (for timing features)
 
+
+## How It Works
+
+1. The application loads quiz questions.
+2. Questions are displayed one by one.
+3. The user selects an answer.
+4. Answers are checked and scored.
+5. A timer can be used to limit response time.
+6. Final score and performance summary are displayed.
+
+## Compilation
+
+Using g++:
+
+```bash
+g++ main.cpp -o quiz
