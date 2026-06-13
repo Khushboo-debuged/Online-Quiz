@@ -1,0 +1,11 @@
+#QuestionCorrect Answer
+1)What does OOP stand for in C++?Object-Oriented Programming
+2)Which keyword allocates memory dynamically in C++?new
+3)What is the output of: cout << 5 / 2 (both integers)?2
+4)Which header is needed for cout and cin?<iostream>
+5)What does a pointer store in C++?A memory address
+6)What does the 'virtual' keyword enable?Runtime polymorphism
+7)Which of these is NOT a valid C++ loop?repeat
+8)What is the size of int on most 64-bit systems?4 bytes
+9)What does STL stand for?Standard Template Library
+10)Which operator accesses members through a pointer?->
